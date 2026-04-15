@@ -18,5 +18,3 @@ This project implements a Sudoku solver using:
   - Backtrack calls
   - Backtrack failures
 
-## How to Run
-python solver.py
